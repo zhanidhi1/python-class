@@ -1,0 +1,3 @@
+a = [1,2,3,4,5,"hello",True]
+append /add garna lai a.append('Nidhi') lekhne ra print garne
+if append gareko xa vane tyeslai hatauna a.pop() use garne
